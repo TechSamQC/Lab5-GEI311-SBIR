@@ -3,12 +3,12 @@
 # Informations
 Projet développé pour le cours GEI311 - Architecture Logicielle
 
-par Il'aina Ratefinanahary et Samuel Brassard UQAC - Automne 2025
+PAR : Il'aina Ratefinanahary et Samuel Brassard UQAC - Automne 2025
 
 *Ce projet est à usage éducatif uniquement*
 
 # Introduction
-Ce laboratoire a pour objectif "[l'i]nitiation aux notions liées au déploiement et la distribution de charge."
+Ce laboratoire a pour objectif "l'initiation aux notions liées au déploiement et la distribution de charge."
 
 # Ce que nous avons appris dans ce laboratoire
 
