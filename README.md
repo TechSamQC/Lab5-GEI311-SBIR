@@ -3,7 +3,7 @@
 # Informations
 Projet développé pour le cours GEI311 - Architecture Logicielle
 
-PAR : Il'aina Ratefinanahary et Samuel Brassard UQAC - Automne 2025
+PAR : Il'aina Ratefinanahary, Samuel Brassard et Antoine Larouche Tremblay UQAC - Automne 2025
 
 *Ce projet est à usage éducatif uniquement*
 
