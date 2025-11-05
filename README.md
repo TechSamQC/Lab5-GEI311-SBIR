@@ -2,7 +2,9 @@
 
 # Informations
 Projet développé pour le cours GEI311 - Architecture Logicielle
+
 par Il'aina Ratefinanahary et Samuel Brassard UQAC - Automne 2025
+
 *Ce projet est à usage éducatif uniquement*
 
 # Introduction
