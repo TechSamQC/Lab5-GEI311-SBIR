@@ -11,4 +11,8 @@ Réponses aux questions :
     - nginx -s reload = changing configuration, starting new worker processes with a new configuration, graceful shutdown of old worker processes
     - nginx -s reopen = re-opening log files
 
-- Q
+- Q16 : 
+
+- Q17 :
+    - a. 
+    - b. 
