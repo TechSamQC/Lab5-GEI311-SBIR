@@ -7,11 +7,12 @@ PAR : Il'aina Ratefinanahary et Samuel Brassard UQAC - Automne 2025
 
 *Ce projet est à usage éducatif uniquement*
 
-# Introduction
+# Objectif
 Ce laboratoire a pour objectif "l'initiation aux notions liées au déploiement et la distribution de charge."
 
 # Ce que nous avons appris dans ce laboratoire
-
+Lors de ce laboratoire, nous avons appris à effectuer le déploiement d'une application simple mais surtout à utiliser la distribution de charge
+pour cette application.
 
 # Réponses aux questions
 - Q6 : L'application étant arrêté, on remarque qu'il n'est maintenant plus possible d'accèder à http://IP_DE_LA_MACHINE:3000/. C'est logique puisque le "serveur" est stoppé. La manipulation effectuée pour obtenir ce résultat était simplement de fermer l'invite de commande exécutant l'application.
